@@ -2,7 +2,7 @@
 
 🚀 **Desarrollador Full Stack** apasionado por crear soluciones tecnológicas innovadoras  
 🎓 Egresado de Ingeniería en Informática - Universidad Santo Tomás  
-💡 Autodidacta permanente | 🏆 2 premios en hackathones locales  
+💡 Autodidacta permanente  
 
 ## 🛠️ Tech Stack
 
