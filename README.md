@@ -63,12 +63,12 @@ EL SOFTWARE SE PROPORCIONA "TAL CUAL", SIN GARANTÍA DE NINGÚN TIPO [...]
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Fabian012c&theme=radical)](https://git.io/streak-stats)
 
 ## 🎓 Certificaciones Recientes
-- AWS Certified Developer Associate (En progreso)
-- Scrum Professional Certificate (2023)
-- Ethical Hacking Fundamentals (2022)
+- Redes (Universidad santo tomas)
+- Cisco (Universidad santo tomas)
+
 
 ## 💡 Actualmente...
-- 🔭 Trabajando en: Sistema de telemedicina con IA predictiva
+- 🔭 Trabajando en: Sistema de agenda medica
 - 🌱 Aprendiendo: Docker y Kubernetes
 - 👥 Busco colaborar en: Proyectos open source de salud digital
 - 📫 Cómo contactarme: [LinkedIn](https://www.linkedin.com/in/fabian-ignacio-moreno-martinez-33892022a/) | [Instagram](https://www.instagram.com/psiiconauta/)
