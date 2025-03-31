@@ -48,6 +48,13 @@
 - 📫 Cómo contactarme: [LinkedIn](https://www.linkedin.com/in/tu-perfil) | fabian@dominio.com
 
 ## ⚡ Dato Curioso
-¡Creé mi primer programa a los 12 años usando Visual Basic! Desde entonces, la programación ha sido mi pasión constante.
+¡Mi viaje tecnológico comenzó a los 12 años liberando teléfonos Android bloqueados! 📱🔓  
+**Hazañas tempranas:**  
+✅ Flasheo de ROMs personalizadas (MIUI, CyanogenMod)  
+✅ Rooteo de dispositivos con bootloaders bloqueados  
+✅ Creación de kernels modificados para mejorar rendimiento  
+✅ Recuperación de "ladrillos" software (¡nada se perdía!)  
+
+_"Aquellos días jugando con ADB y Fastboot forjaron mi pasión por el hacking ético y el desarrollo de software"_ 💻🔥
 
 ![Banner](https://raw.githubusercontent.com/Fabian012c/Fabian012c/main/assets/banner.gif)
