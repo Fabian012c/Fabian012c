@@ -24,10 +24,12 @@
 ### 🏥 Sistema de Agenda Médica (Full Stack)
 - **Stack**: Laravel + Livewire + MySQL
 - **Features**: Gestión de pacientes, sistema de turnos inteligente, integración con calendarios
-- Colaboracion con [Sebastian cañulef](https://github.com/SebaCanulef)
 - **Repo**: [Back-End(En Desarrollo)](https://github.com/Fabian012c/AgendaMedicaWebBack-End) 🔒
 - **Repo**: [Front-End(En Desarrollo)](https://github.com/Fabian012c/Agenda_appWeb) 🔒
 - **Repo**: [Aqui se subira la aplicacion cuando este terminada tanto Fron-end y Back-end] 🔒
+
+## **🤝 Colaboración con [Sebastian cañulef](https://github.com/SebaCanulef)
+  
 Codigo utilizable y modificable al gusto del desarrollador(modificar nombre de empresa).
 MIT License
 
@@ -38,7 +40,7 @@ de este software [...] sujeto a las siguientes condiciones:
 
 1. El código fuente debe conservar esta nota de copyright original
 2. Cualquier uso comercial o distribución pública debe:
-   a. Eliminar todas las referencias a "[Nombre de la Empresa]"
+   a. Eliminar todas las referencias a "[NeuroGenesis]"
    b. Modificar los nombres de dominio, branding y datos sensibles
    c. Incluir documentación técnica sobre los cambios realizados
 
