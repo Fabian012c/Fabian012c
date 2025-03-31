@@ -24,12 +24,32 @@
 ### 🏥 Sistema de Agenda Médica (Full Stack)
 - **Stack**: Laravel + Livewire + MySQL
 - **Features**: Gestión de pacientes, sistema de turnos inteligente, integración con calendarios
-- **Repo**: [Ver código]() 🔒 (Privado - Disponible bajo consulta)
+- Colaboracion con [Sebastian cañulef](https://github.com/SebaCanulef)
+- **Repo**: [Back-End(En Desarrollo)](https://github.com/Fabian012c/AgendaMedicaWebBack-End) 🔒
+- **Repo**: [Front-End(En Desarrollo)](https://github.com/Fabian012c/Agenda_appWeb) 🔒
+- **Repo**: [Aqui se subira la aplicacion cuando este terminada tanto Fron-end y Back-end] 🔒
+Codigo utilizable y modificable al gusto del desarrollador(modificar nombre de empresa).
+MIT License
+
+Copyright (c) [2025] [Fabian Moreno, Sebastian Cañulef]
+
+Se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia
+de este software [...] sujeto a las siguientes condiciones:
+
+1. El código fuente debe conservar esta nota de copyright original
+2. Cualquier uso comercial o distribución pública debe:
+   a. Eliminar todas las referencias a "[Nombre de la Empresa]"
+   b. Modificar los nombres de dominio, branding y datos sensibles
+   c. Incluir documentación técnica sobre los cambios realizados
+
+EL SOFTWARE SE PROPORCIONA "TAL CUAL", SIN GARANTÍA DE NINGÚN TIPO [...]
 
 ### 📂 Gestor Documental Empresarial
 - **Stack**: Django + React + PostgreSQL
 - **Logros**: Reducción de 40% en tiempo de búsqueda documental
-- **Demo**: [Ver demo en vivo]()
+- **Demo**: [Gestion de documentos](https://github.com/Fabian012c/docManager_webBlog)
+Codigo utilizable y modificable al gusto del desarrollador.
+
 
 ## 📈 Mis Estadísticas GitHub
 
@@ -45,7 +65,7 @@
 - 🔭 Trabajando en: Sistema de telemedicina con IA predictiva
 - 🌱 Aprendiendo: Docker y Kubernetes
 - 👥 Busco colaborar en: Proyectos open source de salud digital
-- 📫 Cómo contactarme: [LinkedIn](https://www.linkedin.com/in/fabian-ignacio-moreno-martinez-33892022a/) | https://www.instagram.com/psiiconauta/
+- 📫 Cómo contactarme: [LinkedIn](https://www.linkedin.com/in/fabian-ignacio-moreno-martinez-33892022a/) | [Instagram](https://www.instagram.com/psiiconauta/)
 
 ## ⚡ Dato Curioso
 ¡Mi viaje tecnológico comenzó a los 12 años liberando teléfonos Android bloqueados! 📱🔓  
