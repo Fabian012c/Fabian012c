@@ -1,4 +1,4 @@
-# ¡Hola! 👋 Soy Fabián Cabrera | Ingeniero en Informática
+# ¡Hola! 👋 Soy Fabián Ignacio Moreno Martinez | Ingeniero en Informática
 
 🚀 **Desarrollador Full Stack** apasionado por crear soluciones tecnológicas innovadoras  
 🎓 Egresado de Ingeniería en Informática - Universidad Santo Tomás  
