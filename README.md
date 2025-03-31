@@ -45,7 +45,7 @@
 - 🔭 Trabajando en: Sistema de telemedicina con IA predictiva
 - 🌱 Aprendiendo: Docker y Kubernetes
 - 👥 Busco colaborar en: Proyectos open source de salud digital
-- 📫 Cómo contactarme: [LinkedIn](https://www.linkedin.com/in/tu-perfil) | fabian@dominio.com
+- 📫 Cómo contactarme: [LinkedIn](https://www.linkedin.com/in/tu-perfil](https://www.linkedin.com/in/fabian-ignacio-moreno-martinez-33892022a/)) | https://www.instagram.com/psiiconauta/
 
 ## ⚡ Dato Curioso
 ¡Mi viaje tecnológico comenzó a los 12 años liberando teléfonos Android bloqueados! 📱🔓  
