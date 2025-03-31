@@ -21,12 +21,15 @@
 
 ## 🌟 Proyectos Destacados
 
-### 🏥 Sistema de Agenda Médica (Full Stack)
-- **Stack**: Laravel + Livewire + MySQL
-- **Features**: Gestión de pacientes, sistema de turnos inteligente, integración con calendarios
-- **Repo**: [Back-End(En Desarrollo)](https://github.com/Fabian012c/AgendaMedicaWebBack-End) 🔒
-- **Repo**: [Front-End(En Desarrollo)](https://github.com/Fabian012c/Agenda_appWeb) 🔒
-- **Repo**: [Aqui se subira la aplicacion cuando este terminada tanto Fron-end y Back-end] 🔒
+### 📂 Gestor Documental Empresarial
+- **Stack**: Django + React + PostgreSQL
+- **Logros**: Reducción de 40% en tiempo de búsqueda documental
+- **Demo**: [Gestion de documentos](https://github.com/Fabian012c/docManager_webBlog)
+- Codigo utilizable y modificable al gusto del desarrollador.
+- Eliminar imagenes y adaptarlos a sus necesitades.
+- blog improvisado con proyectos mios
+- logearse en el punto verde
+
 
 ## **🤝 Colaboración con [Sebastian cañulef](https://github.com/SebaCanulef)
   
@@ -45,12 +48,13 @@ de este software [...] sujeto a las siguientes condiciones:
    c. Incluir documentación técnica sobre los cambios realizados
 
 EL SOFTWARE SE PROPORCIONA "TAL CUAL", SIN GARANTÍA DE NINGÚN TIPO [...]
-
-### 📂 Gestor Documental Empresarial
-- **Stack**: Django + React + PostgreSQL
-- **Logros**: Reducción de 40% en tiempo de búsqueda documental
-- **Demo**: [Gestion de documentos](https://github.com/Fabian012c/docManager_webBlog)
-Codigo utilizable y modificable al gusto del desarrollador.
+            ↓↓↓↓↓↓
+### 🏥 Sistema de Agenda Médica (Full Stack)
+- **Stack**: Laravel + Livewire + MySQL
+- **Features**: Gestión de pacientes, sistema de turnos inteligente, integración con calendarios
+- **Repo**: [Back-End(En Desarrollo)](https://github.com/Fabian012c/AgendaMedicaWebBack-End) 🔒
+- **Repo**: [Front-End(En Desarrollo)](https://github.com/Fabian012c/Agenda_appWeb) 🔒
+- **Repo**: [Aqui se subira la aplicacion cuando este terminada tanto Fron-end y Back-end] 🔒
 
 
 ## 📈 Mis Estadísticas GitHub
