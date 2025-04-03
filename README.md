@@ -22,7 +22,7 @@
 ## 🌟 Proyectos Destacados
 
 ### 📂 Gestor Documental Empresarial
-- **Stack**: Django + React + PostgreSQL
+- **Stack**: Django + html + css + js + Sqlite
 - **Logros**: Reducción de 40% en tiempo de búsqueda documental
 - **Demo**: [Gestion de documentos](https://github.com/Fabian012c/docManager_webBlog)
 - Codigo utilizable y modificable al gusto del desarrollador.
@@ -50,7 +50,7 @@ de este software [...] sujeto a las siguientes condiciones:
 EL SOFTWARE SE PROPORCIONA "TAL CUAL", SIN GARANTÍA DE NINGÚN TIPO [...]
             ↓↓↓↓↓↓
 ### 🏥 Sistema de Agenda Médica (Full Stack)
-- **Stack**: Laravel + Livewire + MySQL
+- **Stack**: Laravel + MySQL + Html + Css + js
 - **Features**: Gestión de pacientes, sistema de turnos inteligente, integración con calendarios
 - **Repo**: [Back-End(En Desarrollo)](https://github.com/Fabian012c/AgendaMedicaWebBack-End) 🔒
 - **Repo**: [Front-End+Back-End(En Desarrollo)](https://github.com/Fabian012c/Agenda_web_neuro_FrontAndBack) 🔒
