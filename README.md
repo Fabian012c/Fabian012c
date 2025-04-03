@@ -53,8 +53,7 @@ EL SOFTWARE SE PROPORCIONA "TAL CUAL", SIN GARANTÍA DE NINGÚN TIPO [...]
 - **Stack**: Laravel + Livewire + MySQL
 - **Features**: Gestión de pacientes, sistema de turnos inteligente, integración con calendarios
 - **Repo**: [Back-End(En Desarrollo)](https://github.com/Fabian012c/AgendaMedicaWebBack-End) 🔒
-- **Repo**: [Front-End(En Desarrollo)](https://github.com/Fabian012c/Agenda_appWeb) 🔒
-- **Repo**: [Aqui se subira la aplicacion cuando este terminada tanto Fron-end y Back-end] 🔒
+- **Repo**: [Front-End+Back-End(En Desarrollo)](https://github.com/Fabian012c/Agenda_web_neuro_FrontAndBack) 🔒
 
 
 ## 📈 Mis Estadísticas GitHub
