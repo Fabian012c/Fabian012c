@@ -49,8 +49,7 @@ EL SOFTWARE SE PROPORCIONA "TAL CUAL", SIN GARANTÍA DE NINGÚN TIPO [...]
 ### 🏥 Sistema de Agenda Médica (Full Stack)
 - **Stack**: Laravel + MySQL + Html + Css + Js
 - **Features**: Gestión de pacientes, sistema de turnos inteligente, integración con calendarios
-- **Repo**: [Back-End(En Desarrollo)](https://github.com/Fabian012c/AgendaMedicaWebBack-End) 🔒
-- **Repo**: [Front-End+Back-End(En Desarrollo)](https://github.com/Fabian012c/Agenda_web_neuro_FrontAndBack) 🔒
+- **Repo**:(https://github.com/Fabian012c/Agenda_web_neuro_FrontAndBack) 🔒
 
 
 ## 📈 Mis Estadísticas GitHub
