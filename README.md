@@ -29,14 +29,11 @@
 - Eliminar imagenes y adaptarlos a sus necesitades.
 - blog improvisado con proyectos mios
 - logearse en el punto verde
-
-
-## **🤝 Colaboración con [Sebastian cañulef](https://github.com/SebaCanulef)
   
 Codigo utilizable y modificable al gusto del desarrollador(modificar nombre de empresa).
 MIT License
 
-Copyright (c) [2025] [Fabian Moreno, Sebastian Cañulef]
+Copyright (c) [2025] [Fabian Moreno]
 
 Se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia
 de este software [...] sujeto a las siguientes condiciones:
