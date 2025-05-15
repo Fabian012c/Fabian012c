@@ -30,9 +30,11 @@
 - blog improvisado con proyectos mios
 - logearse en el punto verde
   
-Codigo utilizable y modificable al gusto del desarrollador(modificar nombre de empresa).
-MIT License
-
+### 🏥 Sistema de Agenda Médica (Full Stack)
+- **Stack**: Laravel + MySQL + Html + Css + Js
+- **Features**: Gestión de pacientes, sistema de turnos inteligente, integración con calendarios
+- **Repo**:(https://github.com/Fabian012c/Agenda_web_neuro_FrontAndBack) 🔒
+  
 Copyright (c) [2025] [Fabian Moreno]
 
 Se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia
@@ -43,14 +45,6 @@ de este software [...] sujeto a las siguientes condiciones:
    a. Eliminar todas las referencias a "[NeuroGenesis]"
    b. Modificar los nombres de dominio, branding y datos sensibles
    c. Incluir documentación técnica sobre los cambios realizados
-
-EL SOFTWARE SE PROPORCIONA "TAL CUAL", SIN GARANTÍA DE NINGÚN TIPO [...]
-            ↓↓↓↓↓↓
-### 🏥 Sistema de Agenda Médica (Full Stack)
-- **Stack**: Laravel + MySQL + Html + Css + Js
-- **Features**: Gestión de pacientes, sistema de turnos inteligente, integración con calendarios
-- **Repo**:(https://github.com/Fabian012c/Agenda_web_neuro_FrontAndBack) 🔒
-
 
 ## 📈 Mis Estadísticas GitHub
 
