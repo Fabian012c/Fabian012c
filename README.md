@@ -21,15 +21,15 @@
 
 ## 🌟 Proyectos Destacados
 
-### 📂 Gestor Documental Empresarial
-- **Stack**: Larave + Html + Css + Js + Sqlite
-- **Logros**: Reducción de 40% en tiempo de búsqueda documental
-- **Demo**: [Gestion de documentos](https://github.com/Fabian012c/docManager_webBlog)
-- Codigo utilizable y modificable al gusto del desarrollador.
-- Eliminar imagenes y adaptarlos a sus necesitades.
-- blog improvisado con proyectos mios
-- logearse en el punto verde
-  
+📦 Sistema de Inventario y Gestión de Productos (Full Stack)
+Stack: Laravel + MySQL + Blade + Bootstrap + JavaScript
+
+Features: Gestión de productos, categorías, movimientos de stock, filtros avanzados, generación de reportes
+
+Repo: https://github.com/Fabian012c/InventorySystem (En desarrollo)
+
+Un sistema pensado para negocios que requieren un control claro y profesional del inventario, con interfaz amigable y backend robusto.
+
 ### 🏥 Sistema de Agenda Médica (Full Stack)
 - **Stack**: Laravel + MySQL + Html + Css + Js
 - **Features**: Gestión de pacientes, sistema de turnos inteligente, integración con calendarios
@@ -45,6 +45,15 @@ de este software [...] sujeto a las siguientes condiciones:
    a. Eliminar todas las referencias a "[NeuroGenesis]"
    b. Modificar los nombres de dominio, branding y datos sensibles
    c. Incluir documentación técnica sobre los cambios realizados
+
+### 📂 Gestor Documental Empresarial
+- **Stack**: Larave + Html + Css + Js + Sqlite
+- **Logros**: Reducción de 40% en tiempo de búsqueda documental
+- **Demo**: [Gestion de documentos](https://github.com/Fabian012c/docManager_webBlog)
+- Codigo utilizable y modificable al gusto del desarrollador.
+- Eliminar imagenes y adaptarlos a sus necesitades.
+- blog improvisado con proyectos mios
+- logearse en el punto verde
 
 ## 📈 Mis Estadísticas GitHub
 
