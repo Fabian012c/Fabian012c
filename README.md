@@ -1,6 +1,8 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=4000&pause=1000&color=20C20E&center=true&vCenter=true&width=500&lines=¡Hola!+👋+Soy+Fabián+Moreno;Ingeniero+Informático;Desarrollador+Full+Stack" alt="Typing SVG" />
-</h1>
+<div align="center">
+  
+# ¡Hola! 👋 Soy Fabián Moreno
+
+### Ingeniero Informático | Desarrollador Full Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/Puerto_Montt-Chile-1e3a8a?style=for-the-badge&logo=google-maps&logoColor=white" />
@@ -8,8 +10,8 @@
   <img src="https://img.shields.io/badge/Status-Buscando_nuevos_desafíos-3b82f6?style=for-the-badge&logo=rocket&logoColor=white" />
 </p>
 
-<div align="center">
-  <img src="https://i.imgur.com/qd22NZ6.jpeg" alt="Fabian Moreno" width="250" style="border-radius: 50%; border: 5px solid #3b82f6; box-shadow: 0 0 20px rgba(59, 130, 246, 0.5);" />
+<img src="https://i.imgur.com/qd22NZ6.jpeg" alt="Fabian Moreno" width="250" style="border-radius: 50%; border: 5px solid #3b82f6; box-shadow: 0 0 20px rgba(59, 130, 246, 0.5);" />
+
 </div>
 
 ## 👨‍💻 Sobre Mí
