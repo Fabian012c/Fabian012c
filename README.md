@@ -1,84 +1,134 @@
-# ¡Hola! 👋 Soy Fabián Ignacio Moreno Martinez | Ingeniero en Informática
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=4000&pause=1000&color=20C20E&center=true&vCenter=true&width=500&lines=¡Hola!+👋+Soy+Fabián+Moreno;Ingeniero+Informático;Desarrollador+Full+Stack" alt="Typing SVG" />
+</h1>
 
-🚀 **Desarrollador Full Stack** apasionado por crear soluciones tecnológicas innovadoras  
-🎓 Egresado de Ingeniería en Informática - Universidad Santo Tomás  
-💡 Autodidacta permanente  
+<p align="center">
+  <img src="https://img.shields.io/badge/Puerto_Montt-Chile-1e3a8a?style=for-the-badge&logo=google-maps&logoColor=white" />
+  <img src="https://img.shields.io/badge/Disponible-Freelance-10b981?style=for-the-badge&logo=freelancer&logoColor=white" />
+  <img src="https://img.shields.io/badge/Status-Buscando_nuevos_desafíos-3b82f6?style=for-the-badge&logo=rocket&logoColor=white" />
+</p>
 
-## 🛠️ Tech Stack
+<div align="center">
+  <img src="https://i.imgur.com/qd22NZ6.jpeg" alt="Fabian Moreno" width="250" style="border-radius: 50%; border: 5px solid #3b82f6; box-shadow: 0 0 20px rgba(59, 130, 246, 0.5);" />
+</div>
 
-### 👨💻 Lenguajes y Frameworks
+## 👨‍💻 Sobre Mí
+
+Soy un **Ingeniero Informático** apasionado por crear soluciones tecnológicas innovadoras. Mi viaje en la tecnología comenzó a los 12 años liberando teléfonos Android, lo que despertó mi curiosidad por el funcionamiento interno del software y hardware.
+
+> *"Aquellos días jugando con ADB y Fastboot forjaron mi pasión por el hacking ético y el desarrollo de software"* 💻🔥
+
+**Hazañas tempranas:**
+- ✅ Flasheo de ROMs personalizadas (MIUI, CyanogenMod)
+- ✅ Rooteo de dispositivos con bootloaders bloqueados
+- ✅ Creación de kernels modificados para mejorar rendimiento
+- ✅ Recuperación de "ladrillos" software
+
+## 🛠️ Stack Tecnológico
+
+### 👨‍💻 Lenguajes de Programación
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### 🛠️ Herramientas y Plataformas
-![cPanel](https://img.shields.io/badge/cPanel-FF6C2C?style=for-the-badge&logo=cPanel&logoColor=white)
-![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=XAMPP&logoColor=white)
+### 🚀 Frameworks y Librerías
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+### 🗄️ Bases de Datos
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+
+### 🤖 Agentes de IA y Herramientas Avanzadas
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
+![Gemini CLI](https://img.shields.io/badge/Gemini_CLI-8B5CF6?style=for-the-badge&logo=google-ai&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-FF9900?style=for-the-badge&logo=n8n&logoColor=white)
+
+### 🔧 Otras Herramientas
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![BPMN](https://img.shields.io/badge/BPMN-009688?style=for-the-badge&logo=flow&logoColor=white)
 
 ## 🌟 Proyectos Destacados
 
-📦 Sistema de Inventario y Gestión de Productos (Full Stack)
-Stack: Laravel + MySQL + Blade + Bootstrap + JavaScript
+### 📦 Sistema de Gestión Documental y Blog Corporativo
+**Stack:** Laravel + PHP + MySQL + Bootstrap
 
-Features: Gestión de productos, categorías, movimientos de stock, filtros avanzados, generación de reportes
+**Características:**
+- ✅ Gestión segura de documentos con control de acceso por roles
+- ✅ Blog integrado para comunicación externa
+- ✅ Panel administrativo completo
+- ✅ Generación de documentos en PDF
 
-Repo: https://github.com/Fabian012c/InventorySystem (En desarrollo) 🔓
+**Estado:** 🔓 Disponible  
+**Repositorio:** [docManager_webBlog](https://github.com/Fabian012c/docManager_webBlog)
 
-Un sistema pensado para negocios que requieren un control claro y profesional del inventario, con interfaz amigable y backend robusto.
+---
 
-### 🏥 Sistema de Agenda Médica (Full Stack)
-- **Stack**: Laravel + MySQL + Html + Css + Js
-- **Features**: Gestión de pacientes, sistema de turnos inteligente, integración con calendarios
-- **Repo(Solo Backend)**:(https://github.com/Fabian012c/AgendaMedicaWebBack-End) 🔒
+### 🛒 E-commerce con Control de Inventario
+**Stack:** Laravel + PHP + JavaScript + MySQL
+
+**Características:**
+- ✅ Inventario en tiempo real con alertas de stock bajo
+- ✅ Dashboard con gráficos para análisis de ventas
+- ✅ Gestión completa de productos, categorías y ofertas
+- ✅ Roles de usuario (Cliente y Administrador)
+
+**Estado:** 🔓 En desarrollo  
+**Repositorio:** [InventorySystem](https://github.com/Fabian012c/InventorySystem)
+
+---
+
+### 🏥 Aplicación de Agendamiento Médico
+**Stack:** Laravel + PHP + SQL + HTML/CSS
+
+**Características:**
+- ✅ Autogestión para pacientes (agendamiento online)
+- ✅ Panel para profesionales (administración de calendario)
+- ✅ Blog informativo integrado
+- ✅ Sistema de notificaciones
+
+**Estado:** 🔒 Backend completado  
+**Repositorio Backend:** [AgendaMedicaWebBack-End](https://github.com/Fabian012c/AgendaMedicaWebBack-End)
+
+## 📊 Mis Contribuciones
+
+<div align="center">
   
-Copyright (c) [2025] [Fabian Moreno]
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Fabian012c&layout=compact&theme=radical&hide_border=true&bg_color=00000000)
 
-Se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia
-de este software [...] sujeto a las siguientes condiciones:
+</div>
 
-1. El código fuente debe conservar esta nota de copyright original
-2. Cualquier uso comercial o distribución pública debe:
-   a. Eliminar todas las referencias a "[NeuroGenesis]"
-   b. Modificar los nombres de dominio, branding y datos sensibles
-   c. Incluir documentación técnica sobre los cambios realizados
+## 🎓 Educación
 
-### 📂 Gestor Documental Empresarial
-- **Stack**: Larave + Html + Css + Js + Sqlite
-- **Logros**: Reducción de 40% en tiempo de búsqueda documental
-- **Demo**: [Gestion de documentos](https://github.com/Fabian012c/docManager_webBlog) 🔓
-- Codigo utilizable y modificable al gusto del desarrollador.
-- Eliminar imagenes y adaptarlos a sus necesitades.
-- blog improvisado con proyectos mios
-- logearse en el punto verde
+- **Ingeniería en Informática** - Universidad Santo Tomás
+- **Certificación en Redes** - Universidad Santo Tomás
+- **Certificación Cisco** - Universidad Santo Tomás
 
-## 📈 Mis Estadísticas GitHub
+## 📫 ¡Conectemos!
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fabian012c&layout=compact&theme=radical)](https://github.com/Fabian012c)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Fabian012c&theme=radical)](https://git.io/streak-stats)
+<p align="center">
+  <a href="https://www.linkedin.com/in/fabian-ignacio-moreno-martinez-33892022a/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:fabian.moremart@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+  <a href="https://wa.me/56941227606">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
+  </a>
+  <a href="https://github.com/Fabian012c">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+</p>
 
-## 🎓 Certificaciones Recientes
-- Redes (Universidad santo tomas)
-- Cisco (Universidad santo tomas)
+<div align="center">
+  
+[![Visitas](https://komarev.com/ghpvc/?username=Fabian012c&color=blueviolet&style=flat-square)](https://github.com/Fabian012c)
 
-
-## 💡 Actualmente...
-- 🔭 Trabajando en: Sistema de agenda medica
-- 🌱 Aprendiendo: Docker y Kubernetes
-- 👥 Busco colaborar en: Proyectos open source de salud digital
-- 📫 Cómo contactarme: [LinkedIn](https://www.linkedin.com/in/fabian-ignacio-moreno-martinez-33892022a/) | [Instagram](https://www.instagram.com/psiiconauta/)
-
-## ⚡ Dato Curioso
-¡Mi viaje tecnológico comenzó a los 12 años liberando teléfonos Android bloqueados! 📱🔓  
-**Hazañas tempranas:**  
-✅ Flasheo de ROMs personalizadas (MIUI, CyanogenMod)  
-✅ Rooteo de dispositivos con bootloaders bloqueados  
-✅ Creación de kernels modificados para mejorar rendimiento  
-✅ Recuperación de "ladrillos" software (¡nada se perdía!)  
-
-_"Aquellos días jugando con ADB y Fastboot forjaron mi pasión por el hacking ético y el desarrollo de software"_ 💻🔥
-
-![Banner](https://raw.githubusercontent.com/Fabian012c/Fabian012c/main/assets/banner.gif)
+</div>
